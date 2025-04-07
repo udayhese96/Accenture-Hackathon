@@ -169,14 +169,10 @@ The application will be available at `http://localhost:5173`
 ![Dashboard](Dashboard.png)
 
 ### Job Descriptions
-![Job Listings](Job Descriptions.png)
+![Job Listings](Job_Descriptions.png)
 
 ### Candidate Matching
-![Candidate Matching](https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=2400)
-
-## License
-
-MIT License - feel free to use this project for your own purposes.
+![Candidate Matching](Candidate_Matching.png)
 
 ## Contributing
 
